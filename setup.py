@@ -28,7 +28,7 @@ setup(
         "matplotlib",
         #"egl_probe>=1.0.1",
         "torch",
-        "torchvision==0.15.2",
+        "torchvision",
         "diffusers==0.11.1",
         "tianshou==0.4.10",
         "transformers",
