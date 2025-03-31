@@ -27,7 +27,7 @@ setup(
         "imageio-ffmpeg",
         "matplotlib",
         #"egl_probe>=1.0.1",
-        "torch==2.0.1",
+        "torch",
         "torchvision==0.15.2",
         "diffusers==0.11.1",
         "tianshou==0.4.10",
